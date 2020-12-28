@@ -1,0 +1,22 @@
+{
+  "name": "TweetBot",
+  "version": "1.7.5",
+  "description": "Twiiter Bot",
+  "main": "./config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HackWeiser360/TweetBot"
+  },
+  "keywords": [
+    "bot",
+    "twiiter bot"
+  ],
+  "author": "HackWeiser360",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
